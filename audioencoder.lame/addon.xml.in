@@ -23,6 +23,7 @@
     <summary lang="en_GB">LAME is a high quality MPEG Audio Layer III (MP3)</summary>
     <summary lang="es_ES">LAME es MPEG Audio Layer III (MP3) de alta calidad</summary>
     <summary lang="fi_FI">LAME on korkealaatuinen MPEG Audio Layer III (MP3) -enkooderi</summary>
+    <summary lang="fr_FR">LAME est un MPEG Audio Layer III (MP3) de haute qualité</summary>
     <summary lang="it_IT">LAME è un MPEG Audio Layer III (MP3) di alta qualità</summary>
     <summary lang="ko_KR">LAME은 고품질 MPEG Audio Layer III (MP3)입니다</summary>
     <summary lang="pl_PL">LAME to wysokiej jakości MPEG Audio Layer III (MP3)</summary>
@@ -34,6 +35,7 @@
     <description lang="en_GB">It use LAME, the high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.</description>
     <description lang="es_ES">Usa LAME, el codificador de alta calidad MPEG Audio Layer III (MP3) licenciado bajo LGPL.</description>
     <description lang="fi_FI">LAME on LGPL-lisenssiä noudattava, korkealaatuinen MPEG Audio Layer III (MP3) -enkooderi.</description>
+    <description lang="fr_FR">Il utilise LAME, l&apos;encodeur MPEG Audio Layer III (MP3) de haute qualité sous licence LGPL.</description>
     <description lang="it_IT">Utilizza LAME, il codificatore MPEG Audio Layer III (MP3) di alta qualità con licenza LGPL.</description>
     <description lang="ko_KR">LGPL 라이센스에 따른 LAME, 고품질 MPEG Audio Layer III (MP3) 인코더를 사용합니다.</description>
     <description lang="pl_PL">Używa LAME, wysokiej jakości kodera MPEG Audio Layer III (MP3) na licencji LGPL.</description>
